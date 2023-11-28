@@ -1,0 +1,8 @@
+Statistical analysis for this assignment was not written to this file.
+
+To avoid redundancy, the analysis is provided in the .ipynb file in the src folder.
+
+The notebook file goes through the assignment sequentially and discusses the findings.
+
+Seth Emery
+
